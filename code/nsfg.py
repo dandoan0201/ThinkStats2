@@ -11,7 +11,7 @@ import thinkstats2
 
 from collections import defaultdict
 
-
+# I have to look into this function and perhaps modify it....
 def ReadFemResp(dct_file='2002FemResp.dct',
                 dat_file='2002FemResp.dat.gz',
                 nrows=None):
